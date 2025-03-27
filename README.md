@@ -17,17 +17,17 @@ You must use the concepts you learn in this course throughout the rest of your p
 
 | Level of Measurement | Test(s) |
 | --- | --- |
-| Nominal | $\textcolor{red}{Add \ this \ test:}$ Chi-Square Goodness-Of-Fit |
-| Ordinal | $\textcolor{red}{Add \ this \ test:}$ Chi-Square Goodness-Of-Fit |
-| Interval |  |
-| Ratio |  |
+| Nominal | Chi-Square Goodness-Of-Fit |
+| Ordinal | Chi-Square Goodness-Of-Fit |
+| Interval | $\textcolor{red}{Add \ this \ test:}$ one-sample t-test |
+| Ratio | $\textcolor{red}{Add \ this \ test:}$ one-sample t-test |
 
 ## One Independent Variable (IV), One Dependent Variable (DV)
 
 | <img width="100" height="1"> |  <img width="100" height="1"> | Independent<br>(or Predictor)<br>Variable (IV)<br><img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <br><br><br> |  | **Nominal**  | **Ordinal** | **Interval** | **Ratio** |
-| **Dependent<br>(or Outcome)<br>Variable (DV)**<br><br> | **Nominal** | $\textcolor{red}{Add \ this \ test:}$ Chi-Square Test of Independence (Association)<br>(Dependent Samples) McNemar's Test |  |  |  |
+| **Dependent<br>(or Outcome)<br>Variable (DV)**<br><br> | **Nominal** | Chi-Square Test of Independence (Association)<br>(Dependent Samples) McNemar's Test |  | $\textcolor{red}{Add \ this \ test:}$ (two groups) independent t-test<br>(skewed data) Mann-Whitney U | $\textcolor{red}{Add \ this \ test:}$ (two groups) independent t-test<br>(skewed data) Mann-Whitney U |
 | <br><br><br> | **Ordinal** |  |  |  |  |
 | <br><br><br> | **Interval** |  |  |  |  |
 | <br><br><br> | **Ratio** |  |  |  |  |
