@@ -72,30 +72,32 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | <br><br><br><br> |
 | Will any participant information be included in the study report? (APA Methods Participants section) |
 | <br><br><br><br> |
-| **--------------------Section #3: Individual Test Information (chi-square test of independence [association])--------------------** |
+| **--------------------Section #3: Individual Test Information (independent t-test)--------------------** |
 |  |
 | Test selection & Power analysis: Before a statistical test can be conducted, the correct statistical test must first be selected. The test selected depends mainly on the levels of measurement of the data you have available and the characteristics of those data. You may also need to meet certain thresholds for the amount of data you have to be able to conduct a meaningful test. (Determining the amount of data needed is often accomplished by conducting a power analysis.) What statistical test(s) will be conducted? Which variable(s) will be used in those test(s)? Do you have the amount of data needed to get a meaningful result? |
 | Statistical test:<br><br>Adequate sample size (Power analysis):<br><br>|
 | What are the independent (or predictor) and dependent (or outcome) variables for the test, and what is the level of measurement for each one? |
 | IV:<br><br>DV:<br><br> |
-| $\textcolor{red}{Add \ this \ section:}$ What are the assumptions for the statistical test used? Do the data in the dataset meet those assumptions? If not, should an alternative test be selected or are any adjustments necessary to conduct a meaningful test? |
-| IV & DV are categorical<br>independent observations<br>mutually exclusive groups<br>80% of expected frequencies >5<br>No expected values are 0<br> |
+| What are the assumptions for the statistical test used? Do the data in the dataset meet those assumptions? If not, should an alternative test be selected or are any adjustments necessary to conduct a meaningful test? |
+| IV is categorical (2 groups) and DV is continuous<br>sample is randomly selected from population<br>independent observations<br>data are normally distributed<br>homogeneity of variance (Levene's test is NOT significant)<br> |
 | NHST steps: |
 | These steps should be followed for each statistical test conducted as part of a study. |
 | 1. State the null and alternative hypothesis. |
-| H0: There is no association between the IV and the DV<br><br>H1: There is an association between the IV and the DV<br><br> |
+| H0: There is no difference between group means<br><br>H1: There is a difference between group means<br><br> |
 | 2. Establish the criteria for rejection (alpha level). |
 | Typically alpha = .05<br><br><br><br> |
 | 3. Calculate the test statistic. |
-| chi-square (df, N= ) = [value], p = [value]<br><br><br><br> |
+| t (df) = [value], p = [value]<br><br><br><br> |
 | 4. Make a decision about the null hypothesis. (Reject or fail to reject?) |
 | reject or fail to reject H0?<br><br><br><br> |
-| $\textcolor{red}{Add \ this \ section:}$ Are any post-hoc or follow-up analyses needed? |
-| For significant results, describe the pattern where observed values differ the most from expected values in the cells.<br><br>Describe the overall trend if one can be identified.<br><br> |
-| $\textcolor{red}{Add \ this \ section:}$ What is the effect size? What is the interpretation of the effect size? |
-| phi (for 2x2 table) or Cramer's V (larger tables) =<br><br><br><br> |
-| $\textcolor{red}{Add \ this \ section:}$ How will you report results? |
-| Relevant descriptive statistics:<br><br>Name of test performed and null hypothesis:<br><br>Statistical test information:<br><br>Interpretation for the reader:<br><br> |
+| Are any post-hoc or follow-up analyses needed? |
+| For significant results, identify which group is higher and which group is lower.<br><br><br><br> |
+| What is the effect size? What is the interpretation of the effect size? |
+| Cohen's d =<br><br><br><br> |
+| Can a Bayes Factor be calculated? What is the interpretation of the Bayes Factor? |
+| B01 or B10 =<br><br><br><br> |
+| How will you report results? |
+| Relevant descriptive statistics:<br><br>Name of test performed and null hypothesis:<br><br>Statistical test information:<br><br>Interpretation for the reader:<br><br>An independent t-test was conducted to compare [dependent variable] scores between [Group 1] and [Group 2]. Group 1 (M = XX.XX, SD = XX.XX) and Group 2 (M = XX.XX, SD = XX.XX) were analyzed. The results indicated that there was [or was not] a significant difference between groups, t(df) = X.XX, p = .XXX, d = X.XX. These results suggest that [brief interpretation].<br> |
 | **--------------------References--------------------** |
 | American Statistical Association. (2022, February 1, 2022). Ethical guidelines for statistical practice. Retrieved October 10 from https://www.amstat.org/your-career/ethical-guidelines-for-statistical-practice <br><br> Berman, N., & Gullíon, C. (2007). Working with a Statistician. Topics in Biostatistics, 489-503. <br><br> Booth, W. C., Colomb, G. G., Williams, J. M., Bizup, J., & Fitzgerald, W. T. (2016). The craft of research (Fourth ed.). University of Chicago Press. https://doi.org/10.7208/chicago/9780226239873.001.0001 <br><br> Field, A. (2018). Discovering statistics using IBM SPSS statistics (Fifth ed.). SAGE Publications, Inc. <br><br> Shadish, W. R., Cook, T. D., & Campbell, D. T. (2002). Experimental and quasi-experimental designs for generalized causal inference. Wadsworth, Cengage Learning. <br><br> Tabachnick, B. G., & Fidell, L. S. (2019). Using multivariate statistics (Seventh ed.). Pearson Education, Inc. |
 
