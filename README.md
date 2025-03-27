@@ -94,8 +94,8 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | For significant results, identify which group is higher and which group is lower.<br><br><br><br> |
 | What is the effect size? What is the interpretation of the effect size? |
 | Cohen's d =<br><br><br><br> |
-| Can a Bayes Factor be calculated? What is the interpretation of the Bayes Factor? |
-| B01 or B10 =<br><br><br><br> |
+| $\textcolor{red}{Add \ this \ test:}$ Can a Bayes Factor be calculated? What is the interpretation of the Bayes Factor? |
+| B01 (null supported) or B10 (alternative supported) =<br><br><br><br> |
 | How will you report results? |
 | Relevant descriptive statistics:<br><br>Name of test performed and null hypothesis:<br><br>Statistical test information:<br><br>Interpretation for the reader:<br><br>An independent t-test was conducted to compare [dependent variable] scores between [Group 1] and [Group 2]. Group 1 (M = XX.XX, SD = XX.XX) and Group 2 (M = XX.XX, SD = XX.XX) were analyzed. The results indicated that there was [or was not] a significant difference between groups, t(df) = X.XX, p = .XXX, d = X.XX. These results suggest that [brief interpretation].<br> |
 | **--------------------References--------------------** |
