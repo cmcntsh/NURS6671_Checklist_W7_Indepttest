@@ -27,10 +27,10 @@ You must use the concepts you learn in this course throughout the rest of your p
 | <img width="100" height="1"> |  <img width="100" height="1"> | Independent<br>(or Predictor)<br>Variable (IV)<br><img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <br><br><br> |  | **Nominal**  | **Ordinal** | **Interval** | **Ratio** |
-| **Dependent<br>(or Outcome)<br>Variable (DV)**<br><br> | **Nominal** | Chi-Square Test of Independence (Association)<br>(Dependent Samples) McNemar's Test |  | $\textcolor{red}{Add \ this \ test:}$ (two groups) independent t-test<br>(skewed data) Mann-Whitney U | $\textcolor{red}{Add \ this \ test:}$ (two groups) independent t-test<br>(skewed data) Mann-Whitney U |
+| **Dependent<br>(or Outcome)<br>Variable (DV)**<br><br> | **Nominal** | Chi-Square Test of Independence (Association)<br>(Dependent Samples) McNemar's Test |  |  |  |
 | <br><br><br> | **Ordinal** |  |  |  |  |
-| <br><br><br> | **Interval** |  |  |  |  |
-| <br><br><br> | **Ratio** |  |  |  |  |
+| <br><br><br> | **Interval** | $\textcolor{red}{Add \ this \ test:}$ (two groups) independent t-test<br>(skewed data) Mann-Whitney U |  |  |  |
+| <br><br><br> | **Ratio** | $\textcolor{red}{Add \ this \ test:}$ (two groups) independent t-test<br>(skewed data) Mann-Whitney U |  |  |  |
 
 <br><br><br>
 # Statistical Analysis/Critique Steps
