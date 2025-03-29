@@ -87,7 +87,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | 2. Establish the criteria for rejection (alpha level). |
 | Typically alpha = .05<br><br><br><br> |
 | 3. Calculate the test statistic. |
-| t (df) = [value], p = [value]<br><br><br><br> |
+| $\textcolor{red}{Update \ this \ section:}$ <br>t (df) = [value], p = [value]<br><br><br><br> |
 | 4. Make a decision about the null hypothesis. (Reject or fail to reject?) |
 | reject or fail to reject H0?<br><br><br><br> |
 | Are any post-hoc or follow-up analyses needed? |
