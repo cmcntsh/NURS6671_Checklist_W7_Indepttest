@@ -22,7 +22,7 @@ You must use the concepts you learn in this course throughout the rest of your p
 | Interval | $\textcolor{red}{Add \ this \ test:}$ one-sample t-test |
 | Ratio | $\textcolor{red}{Add \ this \ test:}$ one-sample t-test |
 
-## One Independent Variable (IV), One Dependent Variable (DV)
+## One Dependent Variable (IV), One Independent Variable (DV)
 
 | <img width="100" height="1"> |  <img width="100" height="1"> | Independent<br>(or Predictor)<br>Variable (IV)<br><img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
