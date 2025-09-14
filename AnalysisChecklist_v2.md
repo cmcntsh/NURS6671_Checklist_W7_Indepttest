@@ -120,10 +120,10 @@ What is the source of the data youâ€™ve gathered? Is the mechanism by which youâ
     <td><br><br><br><br></td>
 </tr>
 <tr>
-    <td>$\textcolor{red}{Add \ this \ section:}$ What are the assumptions for the statistical test used? Do the data in the dataset meet those assumptions? If not, should an alternative test be selected or are any adjustments necessary to conduct a meaningful test?</td>
+    <td>What are the assumptions for the statistical test used? Do the data in the dataset meet those assumptions? If not, should an alternative test be selected or are any adjustments necessary to conduct a meaningful test?</td>
 </tr>
 <tr>
-    <td>$\textcolor{red}{Update \ this \ section:}$ <br>IV & DV are categorical<br>independent observations<br>mutually exclusive groups<br>80% of expected frequencies >5<br>No expected values are 0<br></td>
+    <td>$\textcolor{red}{Update \ this \ section:}$ <br>IV is categorical (2 groups) and DV is continuous<br>sample is randomly selected from population<br>independent observations<br>data are normally distributed<br>homogeneity of variance (Levene's test is NOT significant)<br></td>
 </tr>
 <tr>
     <td>NHST steps:</td>
@@ -135,7 +135,7 @@ What is the source of the data youâ€™ve gathered? Is the mechanism by which youâ
     <td>1. State the null and alternative hypothesis.</td>
 </tr>
 <tr>
-    <td>$\textcolor{red}{Update \ this \ section:}$ <br>H0: There is no association between the IV and the DV<br><br>H1: There is an association between the IV and the DV<br><br></td>
+    <td>$\textcolor{red}{Update \ this \ section:}$ <br>H0: There is no difference between group means<br><br>H1: There is a difference between group means<br><br></td>
 </tr>
 <tr>
     <td>2. Establish the criteria for rejection (alpha level).</td>
@@ -147,7 +147,7 @@ What is the source of the data youâ€™ve gathered? Is the mechanism by which youâ
     <td>3. Calculate the test statistic.</td>
 </tr>
 <tr>
-    <td>$\textcolor{red}{Update \ this \ section:}$ <br>chi-square (df, N= ) = [value], p = [value]<br><br><br><br></td>
+    <td>$\textcolor{red}{Update \ this \ section:}$ <br>t (df) = [value], p = [value]<br><br><br><br></td>
 </tr>
 <tr>
     <td>4. Make a decision about the null hypothesis. (Reject or fail to reject?)</td>
@@ -159,13 +159,13 @@ What is the source of the data youâ€™ve gathered? Is the mechanism by which youâ
     <td>Are any post-hoc or follow-up analyses needed?</td>
 </tr>
 <tr>
-    <td>$\textcolor{red}{Update \ this \ section:}$ <br>For significant results, describe the pattern where observed values differ the most from expected values in the cells.<br><br>Describe the overall trend if one can be identified.<br><br></td>
+    <td>$\textcolor{red}{Update \ this \ section:}$ <br>For significant results, identify which group is higher and which group is lower.<br><br><br><br></td>
 </tr>
 <tr>
     <td>What is the effect size? What is the interpretation of the effect size?</td>
 </tr>
 <tr>
-    <td>$\textcolor{red}{Update \ this \ section:}$ <br>phi (for 2x2 table) or Cramer's V (larger tables) =<br><br><br><br></td>
+    <td>$\textcolor{red}{Update \ this \ section:}$ Cohen's d =<br><br><br><br></td>
 </tr>
 <tr>
     <td>$\textcolor{red}{Add \ this \ section:}$ What is the Bayes Factor? What is the interpretation of the Bayes Factor?</td>
@@ -177,7 +177,7 @@ What is the source of the data youâ€™ve gathered? Is the mechanism by which youâ
     <td>How will you report results?</td>
 </tr>
 <tr>
-    <td>$\textcolor{red}{Update \ this \ section:}$ <br>Relevant descriptive statistics:<br><br>Name of test performed and null hypothesis:<br><br>Statistical test information:<br><br>Interpretation for the reader:<br><br></td>
+    <td>$\textcolor{red}{Update \ this \ section:}$ <br>Relevant descriptive statistics:<br><br>Name of test performed and null hypothesis:<br><br>Statistical test information:<br><br>Interpretation for the reader:<br><br>An independent t-test was conducted to compare [dependent variable] scores between [Group 1] and [Group 2]. Group 1 (M = XX.XX, SD = XX.XX) and Group 2 (M = XX.XX, SD = XX.XX) were analyzed. The results indicated that there was [or was not] a significant difference between groups, t(df) = X.XX, p = .XXX, d = X.XX. These results suggest that [brief interpretation].<br></td>
 </tr>
 </table>
 
